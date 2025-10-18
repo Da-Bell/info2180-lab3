@@ -66,7 +66,7 @@ window.onload = function(){
     }
     return null;
   }
-    console.log(squares);
+    console.log(tilespaces);
     console.log(resetBttn);
 
 }
